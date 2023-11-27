@@ -5,7 +5,7 @@ public class Desafio03 {
         public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Digite 1º número: "); 
+        System.out.println("Digite o dia da semana em numero: "exemplo 01 para domingo......" : "); 
         double resp = entrada.nextDouble();
 
 
